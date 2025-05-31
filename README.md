@@ -6,7 +6,7 @@
 ### 🧠 About Me
 - 🎨 I design interfaces that don't just *work* — they **feel** right.  
 - 🚀 I build with **React**, **Astro**, and **TailwindCSS** to create modern web experiences.  
-- 🧪 Lately experimenting with **Tood**, because why not build the weird stuff too?  
+- 🧪 I like to explore **a bit of everything** — animations, micro-interactions, visual oddities, even the occasional strange idea.  
 - 🏗️ My motto: *Less boilerplate, more intention.*
 
 ---
@@ -18,20 +18,20 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Astro](https://img.shields.io/badge/-Astro-1F1F1F?logo=astro&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Tood](https://img.shields.io/badge/-Tood-8A2BE2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMCcgaGVpZ2h0PScyMCc+PHJlY3Qgd2lkdGg9JzIwJyBoZWlnaHQ9JzIwJyBmaWxsPSdibGFjaz8nIC8+PC9zdmc+)
 
 ---
 
-### ✨ Featured Projects
+### 🧪 In the Lab
 
-🎨 [**Interactive Portfolio**](https://nicocorbal.dev)  
-Built with Astro, GSAP animations, draggable gallery, custom scroll and a brutalist minimal vibe.
+I'm constantly building small experiments — some visual, some interactive, some just odd ideas that don't fit anywhere else (yet).  
+You might stumble upon:
 
-🎬 [**Documentary Landing Page**](https://github.com/nicoCorbal/docu-web)  
-Animated synopsis, dynamic sections, blood-themed transitions… all made with care and React.
+- ⚡ Micro UI components that react like liquid  
+- 🧩 Layout concepts that break the grid  
+- 🎭 Text effects that feel alive  
+- 🎬 Interfaces that tell short stories
 
-🧪 [**UI Component Lab**](https://github.com/nicoCorbal/ui-lab)  
-Custom Tailwind UI kit for ultra-fast prototyping. Includes modals, sliders, and animated text with typographic focus.
+Most of them live quietly in local folders, but they'll see the light soon. 🌘
 
 ---
 
@@ -57,5 +57,3 @@ Custom Tailwind UI kit for ultra-fast prototyping. Includes modals, sliders, and
 > — Me, probably at 3AM.
 
 ---
-
-<!-- You can add a custom animated SVG, or even a dynamic GitHub Action badge here -->
